@@ -4,3 +4,6 @@ Completed this dashboard in React.
 --> fetched data from api using axios
 --> implemeted css styling using css3 and bootstrap css
 --> used google fonts
+--> added pagination
+--> implemented search functionality on the table
+--> also added sortable functionality to the table
